@@ -35,5 +35,7 @@ Media das idades: 36.875
 Menor idade: 28
 Maior idade: 43
 
+---
 ## 🎯 Objetivo
 Aplicar conceitos básicos de Python para análise de dados simples, simulando um cenário inicial de exploração de dados.
+
