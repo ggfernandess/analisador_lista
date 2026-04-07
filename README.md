@@ -3,7 +3,12 @@
 ## 📌 Descrição
 Este projeto foi desenvolvido para praticar manipulação de listas em Python e funções nativas da linguagem.
 
-O programa realiza uma análise simples de um conjunto de idades, retornando métricas básicas.
+O programa realiza uma análise simples de um conjunto de idades, retornando métricas básicas como soma, média, maior e menor valor.
+
+---
+
+## 🎯 Objetivo
+Aplicar conceitos básicos de Python para análise de dados simples, simulando um cenário inicial de exploração de dados.
 
 ---
 
@@ -30,12 +35,11 @@ O programa realiza uma análise simples de um conjunto de idades, retornando mé
 
 ```bash
 Soma das idades: 295
-Qtde idades: 8
+Quantidade de idades: 8
 Media das idades: 36.875
 Menor idade: 28
 Maior idade: 43
+```
 
----
-## 🎯 Objetivo
-Aplicar conceitos básicos de Python para análise de dados simples, simulando um cenário inicial de exploração de dados.
+
 
